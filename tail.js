@@ -8,8 +8,5 @@ const tail = function(array) {
   return tailArray;
 };
 
-const words = ["Hello", "Lighthouse", "Labs"];
-
-tail(words);
 
 module.exports = tail;
